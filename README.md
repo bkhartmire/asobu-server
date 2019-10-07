@@ -8,3 +8,5 @@ This is the back-end server for the [Asobu social meetup application](https://gi
 - Configure your .env file, which should include Cloudinary variables and a MongoDB DB_URL variable
 - Start the server with `yarn backend`
 
+## Note
+- This repository is a duplicate of [this one](https://github.com/code-cobalt/asobu-server), except it includes the entire git history before the server was moved into a separate repository.
